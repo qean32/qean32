@@ -1,16 +1,18 @@
-## Hi there 👋
+### WEB DEVELOPMENT
 
-<!--
-**qean32/qean32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ㅤ
+<div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/qean32/qean32/blob/main/icon/ts.svg" width="55" />
+ㅤ
+<img src="https://github.com/qean32/qean32/blob/main/icon/nextjs.svg" />
+ㅤ
+<img src="https://github.com/qean32/qean32/blob/main/icon/tailwind.svg" />
+ㅤ
+<img src="https://github.com/qean32/qean32/blob/main/icon/prisma.svg" />
+ㅤ
+<img src="https://github.com/qean32/qean32/blob/main/icon/nestjs.svg" />
+ㅤ
+<img src="https://github.com/qean32/qean32/blob/main/icon/zustand.svg" />
+ㅤ
+</div>
