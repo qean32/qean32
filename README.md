@@ -29,11 +29,11 @@
 
 </br>
 
-<img src="https://github.com/qean32/qean32/blob/main/icon/laravel.svg" width="100" />
+<img src="https://github.com/qean32/qean32/blob/main/icon/laravel.svg" width="80" />
 
-<img src="https://github.com/qean32/qean32/blob/main/icon/prisma.svg" width="97" />
+<img src="https://github.com/qean32/qean32/blob/main/icon/prisma.svg" width="76" />
 
-<img src="https://github.com/qean32/qean32/blob/main/icon/nestjs.svg" width="100" />
+<img src="https://github.com/qean32/qean32/blob/main/icon/nestjs.svg" width="80" />
 
 
 </div>
