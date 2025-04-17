@@ -23,6 +23,8 @@
 
 <img src="https://github.com/qean32/qean32/blob/main/icon/redux.svg" width="80" />
 
+<img src="https://github.com/qean32/qean32/blob/main/icon/JWT.svg" width="80" />
+
 </br>
 
 <img src="https://github.com/qean32/qean32/blob/main/icon/nodejs.svg" width="160" />
