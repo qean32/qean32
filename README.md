@@ -27,7 +27,7 @@
 
 </br>
 
-<img src="https://github.com/qean32/qean32/blob/main/icon/redux.svg" width="100" />
+<img src="https://github.com/qean32/qean32/blob/main/icon/redux.svg" width="95" />
 ㅤ
 <img src="https://github.com/qean32/qean32/blob/main/icon/laravel.svg" width="100" />
 
