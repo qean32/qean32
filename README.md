@@ -12,9 +12,6 @@
 <!--- <img src="https://github.com/qean32/qean32/blob/main/icon/nextjs.svg" width="100" /> {::comment} --->
 
 </br>
-
-<img src="https://github.com/qean32/qean32/blob/main/icon/nodejs.svg" width="120" />
-</br>
 ㅤ
 <img src="https://github.com/qean32/qean32/blob/main/icon/reactquery.svg" width="60" />
 
@@ -22,8 +19,9 @@
 
 <img src="https://github.com/qean32/qean32/blob/main/icon/zustand.svg" width="60" />
 
-<img src="https://github.com/qean32/qean32/blob/main/icon/zustand.svg" width="60" />
+</br>
 
+<img src="https://github.com/qean32/qean32/blob/main/icon/nodejs.svg" width="120" />
 </br>
 
 <img src="https://github.com/qean32/qean32/blob/main/icon/redux.svg" width="55" />
