@@ -49,5 +49,4 @@
 <br />
 <br />
 <br />
-
-##### icons: skillicons.dev
+<h5 align="end">skillicons.dev - icons</h5>
