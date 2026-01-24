@@ -25,9 +25,11 @@
   <img width="6" />
   <img src="https://raw.githubusercontent.com/qean32/qean32/f9fb8dba7ddc684f88bd225220987744af8a10a7/icon/scss.svg" height="60" />
   <img width="6" />
-  <img src="https://raw.githubusercontent.com/qean32/qean32/f9fb8dba7ddc684f88bd225220987744af8a10a7/icon/nestjs.svg" height="60" />
+  <img src="https://raw.githubusercontent.com/qean32/qean32/f9fb8dba7ddc684f88bd225220987744af8a10a7/icon/nextjs.svg" height="60" />
   <img width="6" />
   <img src="https://raw.githubusercontent.com/qean32/qean32/f9fb8dba7ddc684f88bd225220987744af8a10a7/icon/nodejs.svg" height="60" />
+  <img width="6" />
+  <img src="https://raw.githubusercontent.com/qean32/qean32/225ca2b3f65a1bef70c9f26e4d8fdf9000797a10/icon/nestjs.svg" height="60" />
 </div>
 <br />
 <div align="center">
