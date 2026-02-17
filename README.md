@@ -1,4 +1,4 @@
-<h1 align="center">WEB DEWELOPMENT</h1>
+<h1 align="center">WEB DEVELOPMENT</h1>
 
 ###
 
