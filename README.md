@@ -37,8 +37,6 @@
   <img width="6" />
   <img src="https://raw.githubusercontent.com/qean32/qean32/f9fb8dba7ddc684f88bd225220987744af8a10a7/icon/mysql.svg" height="60" />
   <img width="6" />
-  <img src="https://raw.githubusercontent.com/qean32/qean32/f9fb8dba7ddc684f88bd225220987744af8a10a7/icon/npm.svg" height="60" />
-  <img width="6" />
   <img src="https://raw.githubusercontent.com/qean32/qean32/f9fb8dba7ddc684f88bd225220987744af8a10a7/icon/prisma.svg" height="60" />
   <img width="6" />
   <img src="https://raw.githubusercontent.com/qean32/qean32/f9fb8dba7ddc684f88bd225220987744af8a10a7/icon/git.svg" height="60" />
