@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/qean32/qean32/main/icon/roman.gif" width="880" alt="roman" />
+  <img src="https://raw.githubusercontent.com/qean32/qean32/main/icon/roman.gif" width="720" alt="roman" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 <h3 align="center">WEB DEVELOPMENT</h3>
 <h4 align="center">beckwood the carefree prince</h4>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=qean32&theme=dark&layout=compact" alt="GitHub Streak" height="140" />&nbsp;&nbsp;
+<!-- <p align="center"> -->
+  <!-- <img src="https://streak-stats.demolab.com/?user=qean32&theme=dark&layout=compact" alt="GitHub Streak" height="140" />&nbsp;&nbsp; -->
   <!-- <img src="https://leetcard.jacoblin.cool/qean32?theme=dark" alt="LeetCode Stats" height="140" /> -->
-</p>
+<!-- </p> -->
