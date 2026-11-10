@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/qean32/qean32/main/icon/roman.gif" width="720" alt="roman" />
+  <img src="https://raw.githubusercontent.com/qean32/qean32/main/icon/roman.gif" width="1220" alt="roman" />
 </p>
 
 <p align="center">
@@ -13,6 +13,6 @@
 <h3 align="center">beckwood the carefree prince</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=qean32&theme=dark&layout=compact" alt="GitHub Streak" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=qean32&theme=dark&layout=compact" alt="GitHub Streak" height="100" />
   <!-- <img src="https://leetcard.jacoblin.cool/qean32?theme=dark" alt="LeetCode Stats" height="160" /> -->
 </p>
